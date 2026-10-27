@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TrellaceTeam/.github/main/profile/banner.png" alt="Trellace: Go to Market Resources for B2B Startups. Skills, scripts, and strategies from the work we do with founders every day." width="100%">
+  <img src="https://raw.githubusercontent.com/TrellaceTeam/.github/main/profile/banner.png" alt="Trellace: GTM Resources for B2B Startups. Skills, scripts, and strategies from the work we do with founders every day." width="100%">
 </p>
 
 Skills, scripts, and strategies from the go-to-market work we do with B2B founders every day. We publish them because GTM needs more open source projects. Everything here is free to use and share.
